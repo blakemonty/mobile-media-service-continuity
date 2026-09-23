@@ -100,7 +100,7 @@ Results apply only to the device, service, route, settings, and runs documented 
 
 ## Supporting evidence
 
-Detailed run data is maintained in the project workbook, including:
+Detailed run data is available in the [FQA-001 test evidence workbook](./FQA-001-test-evidence.xlsx), including:
 
 - Test plan and baseline conditions
 - Field log
