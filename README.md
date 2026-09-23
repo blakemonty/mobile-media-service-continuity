@@ -89,3 +89,29 @@ Under the defined baseline conditions, the original playback behavior has not be
 This does not establish that playback will never fail or that every underlying connectivity transition occurred without issue. It means only that no customer-visible interruption was observed during the completed runs.
 
 Two baseline runs remain.
+
+## Limitations
+
+This is a small observational field study, not an instrumented network test.
+
+The project does not capture signal strength, Cell IDs, network transitions, protocol logs, or other diagnostic data. It therefore cannot determine why playback remains continuous or attribute an interruption to a specific network, device, application, or accessory behavior.
+
+Results apply only to the device, service, route, settings, and runs documented here.
+
+## Supporting evidence
+
+Detailed run data is maintained in the project workbook, including:
+
+- Test plan and baseline conditions
+- Field log
+- Individual run details
+- Battery levels
+- Media used during each run
+- Observations and results
+- Planned test iterations
+
+The workbook will be updated as the remaining baseline runs are completed.
+
+## Next step
+
+Complete the remaining two baseline runs before deciding whether a follow-up test is warranted.
